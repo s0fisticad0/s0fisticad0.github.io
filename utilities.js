@@ -8,11 +8,11 @@ class Utilities {
       id: 'utilidades para servidor',
       name: 'server utulities',
 // color comun
-      color1: '#8BC34A',
+      color1: '#83FF1B',
       // color de enmedio puntiagudo
-      color2: '#7CB342',
+      color2: '#F2E34E',
       // variables y demas
-      color3: '#689F38',
+      color3: '#',
 
       menuIconURI: icon,
 
