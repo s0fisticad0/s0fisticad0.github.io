@@ -5,9 +5,9 @@ class Utilities {
 
   getInfo() {
     return {
-      id: 'utilidades para servidor',
-      name: 'server utulities',
-     
+      id: 'utilidadesparaservidor',
+      name: 'serverutulities'
+      
       color1: '#83FF1B'
       
       color2: '#F2E34E',
