@@ -10,7 +10,7 @@ class Utilities {
   getInfo() {
     return {
       id: 'utilities',
-      name: 'Utlities',
+      name: 'servidor ip',
 
       color1: '#BD2551',
       color2: '#B3425F',
