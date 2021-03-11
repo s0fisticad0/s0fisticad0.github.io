@@ -12,9 +12,9 @@ class Utilities {
       id: 'utilities',
       name: 'Utlities',
 
-      color1: '#8BC34A',
-      color2: '#7CB342',
-      color3: '#689F38',
+      color1: '#BD2551',
+      color2: '#B3425F',
+      color3: '#EA798F',
 
       menuIconURI: icon,
 
